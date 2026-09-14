@@ -1,0 +1,22 @@
+n1 = int(input('digite um numero inteiro: '))
+
+t = n1 * 1
+print(n1,'x 1 =',t)
+t = n1 * 2
+print(n1,'x 2 =',t)
+t = n1 * 3
+print(n1,'x 3 =',t)
+t = n1 * 4
+print(n1,'x 4 =',t)
+t = n1 * 5
+print(n1,'x 5 =',t)
+t = n1 * 6
+print(n1,'x 6 =',t)
+t = n1 * 7
+print(n1,'x 7 =',t)
+t = n1 * 8
+print(n1,'x 8 =',t)
+t = n1 * 9
+print(n1,'x 9 =',t)
+t = n1 * 10
+print(n1,'x 10 =',t)
