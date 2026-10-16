@@ -21,6 +21,6 @@ I’m using this project to practice programming logic, improve my Python skills
 * Practice programming logic.
 * Improve my Python skills.
 * Build projects and share my progress.
-* Prepare for my first opportunity in IT.
+* Developing my skills and preparing for my first professional opportunity in the technology field.
 
 This repository is a work in progress and will be updated as I complete new lessons and challenges.
